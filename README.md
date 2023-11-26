@@ -42,12 +42,6 @@ https://manapuraza.com
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manatoyamashita&show_icons=true&locale=en&layout=compact" alt="manatoyamashita" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manatoyamashita&show_icons=true&locale=en" alt="manatoyamashita" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manatoyamashita&" alt="manatoyamashita" /></p>
-
 ## Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManatoYamashita&theme=cobalt2&show_icons=true)
