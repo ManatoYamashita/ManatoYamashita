@@ -1,16 +1,22 @@
-### Hi there 👋
+# How You Feel? 
 
-<!--
-**ManatoYamashita/ManatoYamashita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://manapuraza.com
 
-Here are some ideas to get you started:
+## Manato Yamashita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Now I'm learning Vue3, Nuxt3, React.
+- 📫 contact: info@manapuraza.com
+- 😄 Faculity: Tokyo City University / Informatic / Systems
+- 🍌 Banana
+
+## Skills
+!HTML5
+!CSS3
+!JavaScript
+!Vue3
+!Nuxt3
+!C
+!Java
+
+## Analytics
+!Manato's GitHub stats
