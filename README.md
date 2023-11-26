@@ -4,11 +4,6 @@ https://manapuraza.com
 
 ![ogp](https://github.com/ManatoYamashita/ManatoYamashita/assets/95745485/4f380f04-acce-41a6-9862-6d5910e5a0aa)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&theme=cobalt2&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ## Manato Yamashita
 
 - 🌱 Now I'm learning Vue3, Nuxt3, React.
@@ -57,5 +52,5 @@ https://manapuraza.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManatoYamashita&theme=cobalt2&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&theme=cobalt2&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&theme=great-gatsby&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
