@@ -46,5 +46,5 @@ https://manapuraza.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManatoYamashita&theme=cobalt2&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&theme=great-gatsby&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
