@@ -6,6 +6,8 @@ https://manapuraza.com
 
 ## Manato Yamashita
 
+Good at Frontend✨
+
 - 🌱 Vue3, Nuxt, React, Next.js, Typescript
 - 📫 contact: **info[at]manapuraza.com**
 - 😄 Faculity: Tokyo City University, Informatic
