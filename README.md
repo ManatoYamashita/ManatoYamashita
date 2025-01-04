@@ -6,11 +6,12 @@ https://manapuraza.com
 
 ## Manato Yamashita
 
-- 🌱 Now I'm learning Vue3, Nuxt3, React.
-- 📫 contact: info@manapuraza.com
-- 😄 Faculity: Tokyo City University / Informatic / Systems
+- 🌱 Vue3, Nuxt, React, Next.js, Typescript
+- 📫 contact: **info[at]manapuraza.com**
+- 😄 Faculity: Tokyo City University, Informatic
 - 🍌 Banana
 
+<!--
 ## Skills
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
@@ -41,6 +42,7 @@ https://manapuraza.com
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
 </p>
+-->
 
 ## Analytics
 
