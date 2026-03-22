@@ -6,7 +6,13 @@
 
 ## How You Feel?
 
-<!--
+Good at Frontend ✨
+
+- 🌱 Vue3, Nuxt, React, Next.js, TypeScript
+- 📫 Contact: **mail[at]yamashitamana.to**
+- 😄 Faculty: Tokyo City University, Informatics
+- 🍌 Banana
+
 ## Skills
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManatoYamashita&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
